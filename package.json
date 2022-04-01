@@ -1,0 +1,27 @@
+{
+  "name": "nexttest",
+  "version": "1.0.0",
+  "description": "next app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitebsk121/nextTest.git"
+  },
+  "author": "Alexandr Demchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitebsk121/nextTest/issues"
+  },
+  "homepage": "https://github.com/Vitebsk121/nextTest#readme",
+  "dependencies": {
+    "next": "^12.1.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "sass": "^1.49.10"
+  }
+}
